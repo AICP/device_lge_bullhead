@@ -1,0 +1,7 @@
+# hardware info
+ro.device.chipset=Qualcomm MSM8992 Snapdragon 808
+ro.device.cpu=2.3GHz quad-core Krait
+ro.device.gpu=Adreno 418
+ro.device.rear_cam=12.3MP
+ro.device.front_cam=5MP
+ro.device.screen_res=1080x1920
