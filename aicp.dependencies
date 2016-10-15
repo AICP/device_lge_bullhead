@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "CyanogenMod/android_kernel_lge_bullhead",
+    "target_path": "kernel/lge/bullhead",
+    "branch":      "staging/cm-14.0"
+  },
+  {
+    "repository": "AICP/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch":      "n7.0"
+  }
+]
