@@ -105,6 +105,8 @@ HAVE_ADRENO_SOURCE:= false
 
 OVERRIDE_RS_DRIVER:= libRSDriver_adreno.so
 
+TARGET_BOOTANIMATION_MULTITHREAD_DECODE := true
+
 # Enable dex-preoptimization to speed up first boot sequence
 #ifeq ($(HOST_OS),linux)
 #  ifneq ($(TARGET_BUILD_VARIANT),eng)
@@ -149,6 +151,9 @@ TARGET_USES_INTERACTION_BOOST := true
 # Once camera module can run in the native mode of the system (either
 # 32-bit or 64-bit), the following line should be deleted
 BOARD_QTI_CAMERA_32BIT_ONLY := true
+
+#NFC
+NXP_CHIP_TYPE := 2
 
 #Enable peripheral manager
 TARGET_PER_MGR_ENABLED := true
