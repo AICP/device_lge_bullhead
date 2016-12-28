@@ -1,6 +1,6 @@
 [
   {
-    "repository": "CyanogenMod/android_kernel_lge_bullhead",
+    "repository": "LineageOS/android_kernel_lge_bullhead",
     "target_path": "kernel/lge/bullhead",
     "branch":      "cm-14.1"
   },
