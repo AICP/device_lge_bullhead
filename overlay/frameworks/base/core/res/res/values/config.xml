@@ -422,4 +422,7 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">64</integer>
 
+   <!-- Enable system navigation keys. -->
+   <bool name="config_supportSystemNavigationKeys">true</bool>
+
 </resources>
