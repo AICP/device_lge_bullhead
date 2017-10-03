@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "LineageOS/android_kernel_lge_bullhead",
+    "target_path": "kernel/lge/bullhead",
+    "branch":      "lineage-15.0"
+  },
+  {
+    "repository": "AICP/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch":      "o8.0"
+  }
+]
