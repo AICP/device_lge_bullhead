@@ -236,7 +236,6 @@ PRODUCT_COPY_FILES += \
 
 # GPS
 PRODUCT_PACKAGES += \
-    libgps.utils \
     gps.msm8992
 
 # NFC packages
