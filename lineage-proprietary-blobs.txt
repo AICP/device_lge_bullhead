@@ -24,6 +24,7 @@
 -app/TimeService/TimeService.apk
 -app/Tycho/Tycho.apk:app/Tycho/Tycho.apk:PRESIGNED
 -priv-app/atfwd/atfwd.apk
+-priv-app/CarrierServices/CarrierServices.apk:priv-app/CarrierServices/CarrierServices.apk:PRESIGNED
 -priv-app/CNEService/CNEService.apk
 -priv-app/ConnMO/ConnMO.apk
 -priv-app/DCMO/DCMO.apk
